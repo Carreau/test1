@@ -2,5 +2,6 @@
 
 """
 
-def dont_touch(a,b,c):
+
+def dont_touch(a, b, c):
     pass
